@@ -25,7 +25,7 @@ This model has been pre-trained for Chinese, training and random input masking h
 - **License:** [More Information needed]
 - **Parent Model:** See the [BERT base uncased model](https://huggingface.co/bert-base-uncased) for more information about the BERT base model.
 
-### Model Sources [optional]
+### Model Sources
 - **Paper:** [BERT](https://arxiv.org/abs/1810.04805)
 
 ## Uses
