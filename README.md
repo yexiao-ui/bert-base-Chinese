@@ -13,8 +13,10 @@ language: zh
 - [How to Get Started With the Model](#how-to-get-started-with-the-model)
 
 
-# Model Details
-- **Model Description:**
+## Model Details
+
+### Model Description
+
 This model has been pre-trained for Chinese, training and random input masking has been applied independently to word pieces (as in the original BERT paper).
 
 - **Developed by:** HuggingFace team
@@ -23,6 +25,8 @@ This model has been pre-trained for Chinese, training and random input masking h
 - **License:** [More Information needed]
 - **Parent Model:** See the [BERT base uncased model](https://huggingface.co/bert-base-uncased) for more information about the BERT base model.
 
+### Model Sources
+- **Paper:** [BERT](https://arxiv.org/abs/1810.04805)
 
 ## Uses
 
